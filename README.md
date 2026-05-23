@@ -22,7 +22,7 @@ Do K-Means sử dụng giá trị trung bình để cập nhật tâm cụm, c�
 Điều này cho thấy K-Means khá nhạy với dữ liệu mất cân bằng. 
 Trong những trường hợp dữ liệu chồng lắp hoặc mất cân bằng nghiêm trọng hơn, các cụm nhỏ có thể bị gộp sai hoặc centroid bị lệch về phía cụm lớn.
 
-Mặc dù vậy, trong thí nghiệm hiện tại, do khoảng cách giữa các cụm đủ xa nên K-Means vẫn đạt được kết quả phân cụm tốt và ổn định.
+Mặc dù vậy, do khoảng cách giữa các cụm đủ xa nên K-Means vẫn đạt được kết quả phân cụm tốt và ổn định.
 
 ## Assignment 3
 Trong Assignment 3, bộ dữ liệu gồm ba cụm Gaussian với số lượng điểm bằng nhau. 
